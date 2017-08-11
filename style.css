@@ -1,0 +1,134 @@
+header{
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("http://res.cloudinary.com/ericjcantu/image/upload/q_81/v1502347573/StockSnap_3DLZS7FV0P_2_lv9ciy.jpg");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container h1{
+  color: white;
+  font-size: 80px;
+  margin-top: 120px;
+  margin-left: 35%;
+  position: relative;
+  bottom: -56px;
+  font-family: 'Playfair Display SC', serif;
+
+
+}
+
+.container h2{
+font-size: 40px;
+color: white;
+margin-top: 60px;
+margin-left: -11%;
+font-family: 'Playfair Display SC', serif;
+font-weight: lighter;
+}
+
+.row h2{
+  margin-top: 50px;
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+
+.text-center i{
+  font-size: 30px;
+}
+
+.row h3{
+  font-size: 35px;
+
+}
+
+.row h3 p{
+  margin-bottom: 52px;
+
+}
+
+.container .row h2{
+  color: black;
+  margin-left: 20%;
+
+}
+
+.row img{
+  height: 1100px;
+}
+
+.page-header h2{
+position: relative;
+bottom: -55px;
+color: black;
+}
+
+.container .row .logo img{
+height:90px;
+border-radius:5px;
+margin-top:10px;
+margin-left:0
+transform: scale(1.15);
+transition: all 0.4s;
+
+}
+
+.container .row .logo img:hover{
+  transform: scale(1.05);
+}
+
+.middle-content .page-header{
+  margin-left: 33%;
+
+}
+
+.container .row img{
+  padding-top: 58px;
+  transform: scale(1.15);
+  transition: all 0.4s;
+
+}
+
+.container .row img:hover{
+  transform: scale(1.05);
+}
+
+ul li{
+  display: inline-block;
+  float: right;
+}
+
+ul li a i{
+  color: white;
+  padding-left:10px;
+  transform: scale(2.15);
+  transition: all 0.4s;
+}
+
+ul li a i:hover{
+  transform: scale(2.05);
+  color: #4EC7FE;
+}
+
+.footer li{
+  float: none;
+  margin-left: 6%;
+  position: relative;
+  bottom: -68px;
+}
+
+.footer{
+  padding-bottom: 40px;
+  margin-left: -74px;
+  margin-bottom: 10px;
+
+}
+
+#last-part{
+  color: black;
+
+}
+
+#last-part:hover{
+  color: #F2C500;
+}
